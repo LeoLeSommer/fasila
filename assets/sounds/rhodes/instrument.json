@@ -1,0 +1,107 @@
+{
+    "F1": {
+        "rate": 44100,
+        "format": 16,
+        "length": 820690,
+        "loopStart": 0,
+        "loopEnd": 820690
+    },
+    "B1": {
+        "rate": 44100,
+        "format": 16,
+        "length": 1014689,
+        "loopStart": 0,
+        "loopEnd": 1014689
+    },
+    "E2": {
+        "rate": 44100,
+        "format": 16,
+        "length": 1084961,
+        "loopStart": 0,
+        "loopEnd": 1084961
+    },
+    "A2": {
+        "rate": 44100,
+        "format": 16,
+        "length": 1102685,
+        "loopStart": 0,
+        "loopEnd": 1102685
+    },
+    "D3": {
+        "rate": 44100,
+        "format": 16,
+        "length": 908634,
+        "loopStart": 0,
+        "loopEnd": 908634
+    },
+    "G3": {
+        "rate": 44100,
+        "format": 16,
+        "length": 899708,
+        "loopStart": 0,
+        "loopEnd": 899708
+    },
+    "B3": {
+        "rate": 44100,
+        "format": 16,
+        "length": 776180,
+        "loopStart": 0,
+        "loopEnd": 776180
+    },
+    "D4": {
+        "rate": 44100,
+        "format": 16,
+        "length": 785224,
+        "loopStart": 0,
+        "loopEnd": 785224
+    },
+    "F4": {
+        "rate": 44100,
+        "format": 16,
+        "length": 661519,
+        "loopStart": 0,
+        "loopEnd": 661519
+    },
+    "B4": {
+        "rate": 44100,
+        "format": 16,
+        "length": 564493,
+        "loopStart": 0,
+        "loopEnd": 564493
+    },
+    "E5": {
+        "rate": 44100,
+        "format": 16,
+        "length": 229501,
+        "loopStart": 0,
+        "loopEnd": 229501
+    },
+    "A5": {
+        "rate": 44100,
+        "format": 16,
+        "length": 370466,
+        "loopStart": 0,
+        "loopEnd": 370466
+    },
+    "D6": {
+        "rate": 44100,
+        "format": 16,
+        "length": 317536,
+        "loopStart": 0,
+        "loopEnd": 317536
+    },
+    "G6": {
+        "rate": 44100,
+        "format": 16,
+        "length": 158784,
+        "loopStart": 0,
+        "loopEnd": 158784
+    },
+    "C7": {
+        "rate": 44100,
+        "format": 16,
+        "length": 61783,
+        "loopStart": 0,
+        "loopEnd": 61783
+    }
+}
